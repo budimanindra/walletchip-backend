@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T15:05:28.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="co7-Kp6wiTbHig1pQCj9" version="14.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-15T04:29:28.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="GoqmA3gMie9_KzehZvlD" version="14.3.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Authentication">
-    <mxGraphModel dx="1019" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1227" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -70,7 +70,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nyFLzISlVJXbN4C1lTQ1" name="Transaction">
-    <mxGraphModel dx="1019" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1227" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0xrPqLrZVZDYOh9REc_U-0" />
         <mxCell id="0xrPqLrZVZDYOh9REc_U-1" parent="0xrPqLrZVZDYOh9REc_U-0" />
@@ -179,22 +179,22 @@
         <mxCell id="O2R4WsmhSPi8Em2gVApP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="--nSn1WE8yAgfxKRihAo-0" source="O2R4WsmhSPi8Em2gVApP-16" target="O2R4WsmhSPi8Em2gVApP-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiCa5D5o-0mgGHGn0AK0-0" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="--nSn1WE8yAgfxKRihAo-0">
+        <mxCell id="JiCa5D5o-0mgGHGn0AK0-0" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="--nSn1WE8yAgfxKRihAo-0" vertex="1">
           <mxGeometry x="330" y="799" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JiCa5D5o-0mgGHGn0AK0-1" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="--nSn1WE8yAgfxKRihAo-0">
+        <mxCell id="JiCa5D5o-0mgGHGn0AK0-1" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="--nSn1WE8yAgfxKRihAo-0" vertex="1">
           <mxGeometry x="280" y="692" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="3Xmoj4H64wHJT0EYU57m" name="Update Profile">
-    <mxGraphModel dx="1019" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1015" dy="411" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="s_H1t2akyJVBIyxcnZW3-0" />
         <mxCell id="s_H1t2akyJVBIyxcnZW3-1" parent="s_H1t2akyJVBIyxcnZW3-0" />
         <mxCell id="npDnuudYXLRrLSvOA6rn-43" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="s_H1t2akyJVBIyxcnZW3-1" vertex="1" connectable="0">
-          <mxGeometry x="49" y="63" width="730" height="1078" as="geometry" />
+          <mxGeometry x="54" y="61" width="730" height="1078" as="geometry" />
         </mxCell>
         <mxCell id="-XPDJb95wUxSRpS_27CN-18" value="&lt;h1&gt;Update Profile&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;let everyone know more about you,&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;openess comforts everyone&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="npDnuudYXLRrLSvOA6rn-43" vertex="1">
           <mxGeometry x="219" width="260" height="120" as="geometry" />
